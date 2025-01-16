@@ -1,0 +1,2 @@
+Este directorio llamado Pracita1 se encuetra estructurado con 4 subdirectorios llamados Adivinanzas, chistes, refranes 
+y travalenguas en dichos directorios hay 3 archivos de texto en blanco.
